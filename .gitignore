@@ -1,0 +1,8 @@
+# Ignore environment & Python cache
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.vscode/
+.idea/
